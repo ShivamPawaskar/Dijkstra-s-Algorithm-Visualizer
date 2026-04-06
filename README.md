@@ -5,7 +5,7 @@ The Dijkstra's Algorithm Visualizer is an interactive project that demonstrates 
 
 This project is useful for students and beginners who want a clear understanding of shortest-path algorithms through visualization.
 
-Features33435345464
+Features33435345
 
 Step-by-step visualization of Dijkstra’s Algorithm
 
