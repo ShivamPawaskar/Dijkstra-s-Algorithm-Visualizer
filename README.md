@@ -7,7 +7,7 @@ This project is useful for students and beginners who want a clear understanding
 
 Features
 
-Step-by-step visualization of Dijkstra’s Algorithm 
+Step-by-step visualization of Dijkstra’s Algorithm .
 
 Interactive grid or graph-based interface
 
